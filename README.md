@@ -4,6 +4,7 @@
 
 Welcome to this repository!
 This project showcases how to build a **modern data warehouse using SQL Server**, following clean architecture principles and industry best practices.
+Look at My Notion Link https://www.notion.so/SQL-Data-Warehouse-Project-A-an-2f700d70d57d80a080bfef0b9068dfc5
 
 ---
 
